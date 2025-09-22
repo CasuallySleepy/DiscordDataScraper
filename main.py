@@ -5,7 +5,7 @@ import asyncio
 
 TOKEN = "YOUR_USER_TOKEN"  # User account token | DO NOT USE YOUR MAIN ACCOUNT
 GUILD_ID = 123456789       # Server ID
-DOWNLOAD_DIR = r"C:\Users\ninja\Downloads\DiscordScraper"  # Folder
+DOWNLOAD_DIR = r"C:\Users\YOUR_USERNAME\Downloads\DiscordScraper"  # Folder
 RATE_LIMIT = 1             # Time between each download <-- Avoids bot detection
 
 intents = discord.Intents.all()
