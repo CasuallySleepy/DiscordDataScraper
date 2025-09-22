@@ -1,7 +1,7 @@
 import os
 import asyncio
 
-DOWNLOAD_DIR = r"C:\Users\ninja\Downloads\DiscordScraper"
+DOWNLOAD_DIR = r"C:\Users\YOUR_USERNAME\Downloads\DiscordScraper"
 RATE_LIMIT = 1  # seconds
 
 class MockAttachment:
